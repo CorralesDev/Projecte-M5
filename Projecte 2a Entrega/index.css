@@ -1,0 +1,36 @@
+html{
+	background-color: #E0E0E0;
+}
+input{
+	background-color: ;
+}
+
+/*Banners*/
+.topBanner{
+	height: 25px;
+	width: 100%;
+	background-color: #616161;
+}
+
+/*Botons*/
+.boto{
+	width:200px;
+	height:20px;
+}
+#descripcio{
+	width:200px;
+	height:100px;
+}
+.botoBanner{
+	width:150px;
+	height:25px;
+}
+
+/*Menu de l'esquerra*/
+.tablas{
+	position: relative;
+	top: 15%;
+}
+
+/*Menu per seleccionar donar d'alta*/
+
